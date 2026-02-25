@@ -1,84 +1,45 @@
-# 👋 Hi, I'm Ateeb Arman
+# ⚡ Ateeb Arman
+**Software Development Engineer (Backend) | Computer Science Student**
 
-### 👨‍💻 Backend Developer | CSE Student | DSA Enthusiast
+> Building scalable systems, optimizing data flows, and solving complex problems with efficient algorithms.
 
 <p align="left">
- <a href="https://github.com/ateebarman">
-  <img src="https://github-readme-stats.vercel.app/api?username=ateebarman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ateeb's GitHub Stats" />
- </a>
- <a href="https://github.com/ateebarman">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateebarman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
- </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateebarman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🏗️ Backend Core & Architecture
+- **Expertise:** Scalable API Design, Database Optimization, Asynchronous Workflows.
+- **Deeper Dives:** Distributed Systems, Operating System Internals, Data Modeling.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎯 Current Focus
-- 🔭 Working on **Enterprise-grade MERN applications** with Redis caching.
-- 🌱 Deepening my knowledge in **Database Management Systems** and **Operating Systems**.
-- 🚀 Targeting **Backend SDE roles** at tech-driven companies.
-- 🧩 Solving complex problems using **Data Structures and Algorithms**.
-
----
-
-### 📬 Connect with me:
+### 💻 System Stack
 <p align="left">
-<a href="mailto:ateeb.a22@iiits.in" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ateeb.a22@iiits.in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ateebarman" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ateebarman" height="30" width="40" /></a>
-<a href="https://ateebarman.vercel.app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,docker,linux,git,ts,cpp&perline=5" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+---
+
+### 🧩 Technical Focus
+- 🚀 **High Performance:** Implementing Redis caching layers and optimizing MERN stack for concurrency.
+- 💾 **Data Engineering:** Proficient in SQL/NoSQL schema design and ACID properties.
+- ⚙️ **Core CS:** Strong foundation in OS (Process Sync, Memory Mgmt) and DBMS.
+- 📈 **Problem Solving:** 300+ DSA problems solved across various platforms.
+
+---
+
+### 📊 Engineering Metrics
+<p align="left">
+ <a href="https://github.com/ateebarman">
+  <img src="https://github-readme-stats.vercel.app/api?username=ateebarman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ateeb's Stats" />
+ </a>
 </p>
+
+---
+
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateeb-arman-42019a254/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://ateebarman.vercel.app](https://portfolio-three-eta-b57vgf5yot.vercel.app/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateeb.a22@iiits.in)
